@@ -60,3 +60,9 @@ The analysis follows a production-ready computer vision pipeline optimized for G
 3. **Step-by-Step Run**:
 * Execute the introductory cell to install `optuna` and complete the interactive OAuth prompt to mount your Google Drive.
 * Run the rest of the notebook cells sequentially to process the image paths, kick off the automated trial loops, and display the final performance tables.
+
+
+## NOTE: Because file sizes are too large, I'm providing links for them:
+training set: https://drive.google.com/file/d/1y5R514fgg2_0CQ3CZhpaW13Tn5TnUWPP/view?usp=drive_link 
+test set: https://drive.google.com/file/d/13PvSLJIvdvXQdMcGqFJMCaPOW1MQioRR/view?usp=drive_link
+single prediction: https://drive.google.com/file/d/1QWes_cjinmmz7pY3uEl6v_0DODR5_uKy/view?usp=drive_link
