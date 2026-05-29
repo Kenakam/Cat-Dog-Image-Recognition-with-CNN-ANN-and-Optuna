@@ -63,6 +63,6 @@ The analysis follows a production-ready computer vision pipeline optimized for G
 
 
 ## NOTE: Because file sizes are too large, I'm providing links for them:
-training set: https://drive.google.com/file/d/1y5R514fgg2_0CQ3CZhpaW13Tn5TnUWPP/view?usp=drive_link 
-test set: https://drive.google.com/file/d/13PvSLJIvdvXQdMcGqFJMCaPOW1MQioRR/view?usp=drive_link
-single prediction: https://drive.google.com/file/d/1QWes_cjinmmz7pY3uEl6v_0DODR5_uKy/view?usp=drive_link
+* training set: https://drive.google.com/file/d/1y5R514fgg2_0CQ3CZhpaW13Tn5TnUWPP/view?usp=drive_link 
+* test set: https://drive.google.com/file/d/13PvSLJIvdvXQdMcGqFJMCaPOW1MQioRR/view?usp=drive_link
+* single prediction: https://drive.google.com/file/d/1QWes_cjinmmz7pY3uEl6v_0DODR5_uKy/view?usp=drive_link
